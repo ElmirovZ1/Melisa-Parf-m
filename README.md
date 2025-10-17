@@ -1,5 +1,3 @@
-# Melisa-Parf-m
-Parfüm satış mağazası.
 <!DOCTYPE html>
 <html lang="az">
 <head>
